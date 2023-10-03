@@ -8,7 +8,6 @@ module.exports = defineConfig({
         readPdf
       })
     },
-    baseUrl: 'http://localhost:3000',
-    trashAssetsBeforeRuns: false
+      testIsolation:false,
   },
 });
