@@ -8,7 +8,7 @@ The `app` folder contains PDF files used for the first assignment.
 
 ## Cypress Folder
 
-The `cypress` folder is organized into two subfolders:
+The `cypress` folder is organized into two main subfolders:
 
 ### E2E Folder
 
@@ -22,7 +22,5 @@ Inside the `scripts` folder, you'll find a TypeScript file named `readPdf.ts`. T
 - Defines a `readPdf` function, which is used to read and parse a PDF file.
 - Returns the text content of the PDF as a Promise.
 
-This script plays a crucial role in the Cypress assignments, enabling the reading and validation of PDF content.
 
-Feel free to explore the folders and files to dive deeper into the code and assignments.
 
